@@ -19,7 +19,7 @@ The example data are taken for the description of Harenna mouse (*Mus harennensi
 **References:**
 - Flouri T, Jiao X, Rannala B, Yang Z (2018) Species tree inference with BPP using genomic sequences and the multispecies coalescent. Mol Biol Evol 35: 2585-2593.
 - Jackson N, Carstens B, Morales A, O’Meara BC (2017) Species delimitation with gene flow. Syst Biol 66: 799-812.
-- Kahle D, Stamey J (2017) invgamma: The Inverse Gamma Distribution. R package version 1.1. 
+- Kahle D, Stamey J (2017) invgamma: The Inverse Gamma Distribution. R package version 1.1. https://CRAN.R-project.org/package=invgamma
 - Krásová J, Mikula O, Lavrenchenko LA, Šumbera R, Meheretu Y, Bryja J (2002) A new rodent species of the genus Mus (Rodentia: Muridae) confirms the biogeographical uniqueness of the isolated forests of southern Ethiopia. Org Divers Evol https://doi.org/10.1007/s13127-022-00539-x
 - Leaché AD, Zhu T, Rannala B, Yang Z (2019) The spectre of too many species. Syst Biol 68: 168-181.
 - Paradis E, Schliep K (2019) ape 5.0: an environment for modern phylogenetics and evolutionary analyses in R. Bioinformatics 35, 526–528. 
