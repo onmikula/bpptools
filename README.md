@@ -4,7 +4,7 @@ A collection of R functions assisting phylogenetic analyses in BPP software.
 Among others, it covers:
 1. creation of input files (sequence, imap and control files) for BPP (Yang & Rannala 2010, Flouri et al. 2018)
 2. importing outputs (posterior sample)
-3. converting outputs into file formats used, e.g., by FigTree and Tracer
+3. converting outputs into file formats used, e.g., by FigTree (https://github.com/rambaut/figtree/releases) and Tracer (Rambaut et al. 2018)
 4. calculation of genealogical divergence index (Jackson et al. 2017, Leaché et al. 2019)
 5. plotting of trees annotated either with posterior probabilities or parameters of multispecies coalescent model (Rannala & Yang 2003)
 6. plotting of prior and posterior densities
@@ -24,6 +24,7 @@ The example data are taken for the description of Harenna mouse (*Mus harennensi
 - Leaché AD, Zhu T, Rannala B, Yang Z (2019) The spectre of too many species. Syst Biol 68: 168-181.
 - Paradis E, Schliep K (2019) ape 5.0: an environment for modern phylogenetics and evolutionary analyses in R. Bioinformatics 35, 526–528. 
 - R Core Team (2022) R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. https://www.R-project.org
+- Rambaut A, Drummond AJ, Xie D, Baele G, Suchard MA (2018) Posterior summarization in Bayesian phylogenetics using Tracer 1.7. Syst Biol 67: 901–904.
 - Rannala B, Yang Z (2003) Bayes estimation of species divergence times and ancestral population sizes using DNA sequences from multiple loci. Genetics 164: 1645–1656.
 - Schliep KP (2011) phangorn: phylogenetic analysis in R. Bioinformatics, 27: 592-593.
 - Yang Z, Rannala B (2010) Bayesian species delimitation using multilocus sequence data. Proc Natl Acad Sci U S A 107: 9264–9269.
