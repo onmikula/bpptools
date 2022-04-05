@@ -14,7 +14,7 @@ Two example scripts are provided. The script 'bpptools_examples.R' shows a coupl
 Apart from bpptools, the scripts employ also functions using posterior sample of species trees to find the maximum clade credibility tree ('find_mcct', also at https://github.com/onmikula/find_mcct) and maximum credibility species delimitation ('find_spdelim'). Included are also functions 'readNexus' and 'concatenate', which enable handling of specific data structures. The functions in bpptools.R depend on R packages ape (Paradis & Schliep 2019) and invgamma (Kahle & Stamey 2017). The other functions depend also on phangorn (Schliep 2011)
 
 For more details about the functions and their arguments, see function headers in the file func/bpptools.R and in the scripts.
-The example data are taken for the description of Harenna mouse from southern Ethiopia (Krásová et al. 2022).
+The example data are taken for the description of Harenna mouse (*Mus harennensis*) from southern Ethiopia (Krásová et al. 2022).
 
 **References:**
 - Flouri T, Jiao X, Rannala B, Yang Z (2018) Species tree inference with BPP using genomic sequences and the multispecies coalescent. Mol Biol Evol 35: 2585-2593.
