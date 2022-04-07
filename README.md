@@ -2,7 +2,7 @@
 A collection of R functions assisting phylogenetic analyses in BPP software.
 
 Among others, it covers:
-1. creation of input files (sequence, classification and control files) for BPP (Yang & Rannala 2010, Flouri et al. 2018)
+1. parsing of input files (sequence, classification and control files) for BPP (Yang & Rannala 2010, Flouri et al. 2018)
 2. importing outputs (posterior sample)
 3. converting outputs into file formats used, e.g., by FigTree (https://github.com/rambaut/figtree/releases) or Tracer (Rambaut et al. 2018)
 4. calculation of genealogical divergence index (Jackson et al. 2017, Leaché et al. 2019)
