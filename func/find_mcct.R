@@ -30,9 +30,9 @@ find_mcct <- function(trees, file=NULL, return=TRUE, method="mean", monophyletic
 		trees <- trees[-seq(ceiling(burnin * length(trees)))]
 	}
 	if (thinning < 1) {
-		trees <- trees[round(seq(1, length(trees), length=thinning * length(trees)))]
+		trees <- trees[round(seq(1, length(trees), length=round(thinning * length(trees))))]
 	} else if (thinning > 1) {
-		trees <- trees[seq(1, length(trees), by=thinning)]
+		trees <- trees[seq(1, length(trees), by=round(thinning))]
 	}
 	class(trees) <- "multiPhylo"
 	rooted <- ape::is.rooted(trees[[1]])
