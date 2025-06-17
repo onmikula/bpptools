@@ -1,0 +1,13 @@
+Package: bpptools
+Title: Assistance to Multispecies Coalesent Analyses in BPP.
+Version: 0.0.1
+Authors@R: 
+    person("Ondrej", "Mikula", , "onmikula@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-4361-0581"))
+Description: A helper package for multispecies coalesent analyses in BPP software.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    ape (>= 5.0)
